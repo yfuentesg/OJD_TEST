@@ -1,0 +1,4 @@
+VERY IMPORTANT TO REMEMBER
+The data is saved in overwriting mode
+If file doesn't exist, it's created
+Of course if path doesn't exists, it will throw an error

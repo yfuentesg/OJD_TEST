@@ -1,0 +1,3 @@
+The data is saved in overwriting mode
+If file doesn't exist, it's created
+Also, the append mode can be specified :)
