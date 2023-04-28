@@ -11,7 +11,7 @@ import java.util.logging.Logger;
 
 /*
     Serialization is a process in which classes are transformed in bytes and can be 
-    stored in files or transported between the network
+    stored in files or transported between the network.
     
     The object serialized can be deserialized.
 

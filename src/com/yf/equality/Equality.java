@@ -11,7 +11,7 @@ public class Equality {
         if(a == b)
             System.out.println("a equal b");
         
-        /*for objects the == is valid ONLY to compare references*/
+        /*for objects the == is valid ONLY to compare references..*/
         MyClass c = new MyClass();
         MyClass d = new MyClass();
         

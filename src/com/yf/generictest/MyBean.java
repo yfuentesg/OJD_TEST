@@ -2,7 +2,7 @@ package com.yf.generictest;
 
 //In theory the letter used for generic doesnt matter, buuut. 
 //T stands for Type
-//K stands for key
+//K stands for key.
 //... and others :S
 public class MyBean<T> {
 

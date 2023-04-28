@@ -23,7 +23,7 @@ public class TryCatchTest {
 
     public static void main(String[] args) {
 
-        /*the blocks try has the objective of catching exceptions */
+        /*the blocks try has the objective of catching exceptions. */
         try {
 
         } //System.out.println("args = " + args); //ThIS is an ERROR, must not be between the exceptions

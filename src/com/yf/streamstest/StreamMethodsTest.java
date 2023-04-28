@@ -11,7 +11,7 @@ import java.util.stream.Stream;
 public class StreamMethodsTest {
 
     /*
-        SOMETHING VERY IMPORTANT to remember is that when used some method the stream is closed.
+        SOMETHING VERY IMPORTANT to remember is that when used some method the stream is closed.x
         And cannot be used again (Thats why i'll use several local variables for the examples (before the refactor ... :S))
      */
     public static void basicMethods() {

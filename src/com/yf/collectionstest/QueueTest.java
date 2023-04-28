@@ -7,7 +7,7 @@ public class QueueTest {
 
     /*
     This special type allows working as a queue or a stack (colas dobles)
-    Work with generics
+    Work with generics.
     
      */
     public static void main(String[] args) {

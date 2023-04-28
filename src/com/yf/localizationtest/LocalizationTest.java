@@ -14,7 +14,7 @@ import java.util.ResourceBundle;
 public class LocalizationTest {
 
     /*
-        Locale class allow us working with applications with multiple languages
+        Locale class allow us working with applications with multiple languageS
         
         For that we must define some files with the structure name
         

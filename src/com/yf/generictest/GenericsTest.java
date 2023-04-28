@@ -6,7 +6,7 @@ import javax.swing.JButton;
 public class GenericsTest {
 
     /*
-    Generic allows a class working with ANY type of OBJECT (NOT PRIMITIVES)
+    Generic. allows a class working with ANY type of OBJECT (NOT PRIMITIVES)
      */
     public static void main(String[] args) {
 

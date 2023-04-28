@@ -8,7 +8,7 @@ public class SetTest {
 
     /*
     Set is an Interface ancestor or others abstract classes HashSet and TreeSet
-    The Idea here is to save data from a group of elements (UNIQUE, NOT REPEATED) elements
+    The Idea here is to save data from a group of elements (UNIQUE, NOT REPEATED) elements..
      */
     public static void main(String[] args) {
 

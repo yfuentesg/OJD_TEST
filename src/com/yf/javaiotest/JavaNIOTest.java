@@ -12,7 +12,7 @@ public class JavaNIOTest {
 
     public static void main(String[] args) {
         //interface Path represents a path to a filename or directory
-        //The implementation of Path can be created with these Factory methods. 
+        //The implementation of Path can be created with these Factory methods.. 
         //NOTE: that can be created in two ways (buf methods are named different) :|
 
         Path path1 = Path.of("C:\\workspace\\OJD_TEST\\src\\com\\yf\\javaiotest\\files\\printedbyBufferedWriter.txt");

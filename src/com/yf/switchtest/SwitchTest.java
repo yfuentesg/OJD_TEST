@@ -5,7 +5,7 @@ public class SwitchTest {
         
         int x = 5;
         int y = 6;
-        switch(x) {  //Here we can use integer casteable types, as int, char, byte and String. 
+        switch(x) {  //Here we can use integer casteable types, as int, char, byte and String. ..
             case 1:  // the literals here must be the same type as the declared in switch (or casteable)  
                 System.out.println("x=1");
                 break;

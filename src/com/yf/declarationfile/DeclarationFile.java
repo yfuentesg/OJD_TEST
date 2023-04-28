@@ -1,4 +1,4 @@
-/*Los comentarios son opcionales. Y pueden ir en cualquier linea del codigo*/
+/*Los comentarios son opcionales. Y pueden ir en cualquier linea del codigo..*/
 
 /*EL package es opcional. Pero de haberlo sera la primera linea(SIn tener en cuenta comentarios)*/
 package com.yf.declarationfile;

@@ -13,7 +13,7 @@ public class JavaTimeTest {
 
     /*
         java.time is a class included since java 8 to handle dates
-        It have several Classes to do it
+        It have several Classes to do iT
     
         They dont have public constructors , instead they have static factory methods to create new objects (of method)
     

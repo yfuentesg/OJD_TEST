@@ -1,6 +1,6 @@
 /**
  *
- * @author Yeison Fuentes
+ * @author Yeison Fuentes.
  * https://certsprovider.com/updated/1z0-819-exam-questions/
  */
 public class ToStudylater {

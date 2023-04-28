@@ -17,7 +17,7 @@ package com.yf.nestedclasses;
     This shows why an inner class cannot declare a static member, because the entire body of the inner class is in the scope of one or more enclosing instances.
 
     Declaring a nested class static only means that instances of the class are created without having an outer instance. 
-    It does not put any limits on whether the members of the class can be static or not.
+    It does not put any limits on whether the members of the class can be static or not..
 */
 
 public class NestedClasses {

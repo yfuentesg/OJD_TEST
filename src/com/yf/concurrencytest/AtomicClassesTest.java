@@ -7,7 +7,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 public class AtomicClassesTest {
     
     /*
-        Atomic Classes are wrapper classes prepared to work in thread safe mode
+        Atomic Classes are wrapper classes prepared to work in thread safe mode.
         
     AtomicInteger: 
         incrementAndGet()

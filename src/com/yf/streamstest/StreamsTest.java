@@ -9,7 +9,7 @@ import java.util.stream.Stream;
 
 public class StreamsTest {
         
-    /*Streams are objects which allow us go over a bunch of data 
+    /*Streams are objects which allow us go over a bunch of data x
     and performs operations like search, processing etc 
     
     the interface is java.utils.Stream

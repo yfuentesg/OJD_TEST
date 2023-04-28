@@ -1,7 +1,7 @@
 package com.yf.concurrencytest;
 
 /*
-    There are two types of implementing Concurrency 
+    There are two types of implementing Concurrency .
 
     In Both types method run contains the logic 
     Method Start initiates the Thread

@@ -19,7 +19,7 @@ public class NewConcurrencyClasses {
 
     /*
         Some of the new implementations for concurrence management
-        are present since java v 5. in package java.utils.concurrent
+        are present since java v 5. in package java.utils.concurrent.
         
     
         Executors(class)------------------ExecutorService (itf)

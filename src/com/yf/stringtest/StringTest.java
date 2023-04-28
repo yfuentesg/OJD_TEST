@@ -4,7 +4,7 @@ public class StringTest {
     
     /*
     Due to string inmutability the new reference remains only into local
-    variable (str) and it's not translated into (s) variable
+    variable (str) and it's not translated into (s) variable.
     */
     static void changeString(String str) {
         str = str + "World";

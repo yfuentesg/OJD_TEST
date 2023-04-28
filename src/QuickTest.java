@@ -23,7 +23,7 @@ public class QuickTest {
                     continue;
                 }
 
-                if (printNextLine) {
+                if (printNextLine) {//
                     System.out.println(lineNumber + ": " + line);
                     
                     if (numberLinesPrinted++ >= 2) {

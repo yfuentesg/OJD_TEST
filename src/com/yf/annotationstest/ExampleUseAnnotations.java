@@ -26,7 +26,7 @@ public class ExampleUseAnnotations {
         if (myCat.getClass().isAnnotationPresent(VeryImportant.class)) {
             System.out.println("The Dog Class IS VeryImportant");
         } else {
-            System.out.println("The Dog Class IS NOT VeryImportant");
+            System.out.println("The Dog Class IS NOT VeryImportant.");
         }
         
         //-------------------------------------------------------------------

@@ -1,7 +1,7 @@
 package com.yf.statictest;
 
 public class StaticTest {
-    //static attributes belong to class not instance   
+    //static attributes belong to class not instance  , x
     static int staticAttribute;
     public int nonStaticAttribute = 17;
     

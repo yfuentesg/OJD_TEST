@@ -6,7 +6,7 @@ import java.util.List;
 
 /*
 functional interfaces: Are interfaces with ONLY ONE abstract method.
-NOTE: they can have other methods like static, and default even they can have overriden methods for class Object 
+NOTE: they can have other methods like static, and default even they can have overriden methods for class Object .
 
 lamba expressions give implementation to functional interfaces. It Returns the implementation itself(logic /Interface type). Not a value
  */

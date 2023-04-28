@@ -9,7 +9,7 @@ public class MapTest {
 
     /*
         Map is an Interface ancestor or other classes like HashMap, TreeMap, hastable
-        The Idea here is to save data tied to an unique key index
+        The Idea here is to save data tied to an unique key index.
      */
     public static void main(String[] args) {
 

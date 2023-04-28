@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.stream.Stream;
 
 /*
-    The class java.utils.Function provides several funcional interfaces in order to be implemented according to funcionality needed
+    The class java.utils.Function provides several funcional interfaces in order to be implemented according to funcionality needed.
  */
 public class LambaJavaUtilsFunctionTest {
 

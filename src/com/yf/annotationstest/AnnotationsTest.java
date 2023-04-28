@@ -18,7 +18,7 @@ import java.lang.annotation.Target;
 @Target({ElementType.FIELD, ElementType.TYPE_USE, ElementType.TYPE_PARAMETER})
 @interface Resource {
     String name();          //since no default value are set here, name is MANDATORY
-    int level() default 0; //hence level would be optional
+    int level() default 0; //hence level would be optional.
 }
 
 

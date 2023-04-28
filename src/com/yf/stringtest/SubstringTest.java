@@ -8,7 +8,7 @@ public class SubstringTest {
         
         /*
             First method receives the initial position and returns from this initial position to the last of string
-            Position starts with 0
+            Position starts with 0.
         */
         System.out.println("First substr Method result = " + myStr.substring(5));
         System.out.println("OtherString".substring(5));

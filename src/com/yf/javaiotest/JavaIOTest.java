@@ -15,7 +15,7 @@ import java.util.Scanner;
 /*
     The input/output states operations for retreive/send information to a source  
 
-    There are two packages to do this
+    There are two packages to do this.
     1. java.io classic package
     2. java.nio (n states for NEW. Available since java 5), provides several enhancements
  */

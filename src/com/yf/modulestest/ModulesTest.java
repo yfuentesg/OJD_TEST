@@ -5,7 +5,7 @@ package com.yf.modulestest;
     Se puede indicar dependencia entre modulos asi como permisos 
     para que ciertos paquetes sean usados SOLO x ciertos modulos
     
-    NO pueden haber varios modulos que expongan el mismo paquete
+    NO pueden haber varios modulos que expongan el mismo paquetex
 
     EL JDK esta organizado de esta manera desde la v9
     

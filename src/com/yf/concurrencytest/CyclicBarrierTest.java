@@ -68,7 +68,7 @@ public class CyclicBarrierTest {
         }
 
     }
-
+//
     public static void main(String[] args) {
         CyclicBarrierTest play = new CyclicBarrierTest();
         play.runSimulation(5, 3);

@@ -1,6 +1,6 @@
 package com.yf.utils;
 
-/*This is a utility Class for doing Some calling when the examples need it*/
+/*This is a utility Class for doing Some calling when the examples need it.*/
 public class Person implements Comparable<Person> {
 
     private static long idCount;

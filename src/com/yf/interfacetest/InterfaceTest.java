@@ -2,7 +2,7 @@ package com.yf.interfacetest;
 
 
 //Interfaces are kinda a blueprint to define behaviour for classes 
-//An interface can inherit for other interfaces (multiple allowed)
+//An interface can inherit for other interfaces (multiple allowed).
 
 //Methods in interface are only declared but no implemented(abstract)
 //First NOn-abtract class that implements interface is responsible for implementing those methods

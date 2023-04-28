@@ -3,7 +3,7 @@ package com.yf.exceptionstest;
 
 /*
     Exceptions can be defined as abnormal situations during the execution of a program
-    They differ from errors since Errors have not recovery.
+    They differ from errors since Errors have not recovery..
     
     The super class is Exception. (This is a chopped version of hierarchy...)
                             |

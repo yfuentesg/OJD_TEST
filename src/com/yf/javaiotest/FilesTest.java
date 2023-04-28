@@ -12,7 +12,7 @@ import java.util.logging.Logger;
 import java.util.stream.Stream;
 
 /*
-    java.nio.Files provides some static methods to deal with file operations
+    java.nio.Files provides some static methods to deal with file operations.
  */
 public class FilesTest {
 

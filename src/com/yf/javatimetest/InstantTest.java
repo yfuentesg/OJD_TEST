@@ -12,7 +12,7 @@ import java.time.ZonedDateTime;
 public class InstantTest {
 
     /*
-      An Instant represents a moment concrete in GMT Zone
+      An Instant represents a moment concrete in GMT ZonE
       The momment taken as the base is 1970-01-01T00:00:00 (greenwich :S) 
      */
     public static void instants() {

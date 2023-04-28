@@ -16,7 +16,7 @@ class Neighbor {
 
 public class InstanceofTest {
     /*
-        instanceof is an operator that allow us validate parenting between an object and a class
+        instanceof is an operator that allow us validate parenting between an object and a class.
     */
     public static void main(String[] args) {
         Father f = new Father();

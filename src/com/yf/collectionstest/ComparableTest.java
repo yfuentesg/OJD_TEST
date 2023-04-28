@@ -9,7 +9,7 @@ public class ComparableTest {
 
     /*
     Arrays and lists can be ordered according to The Natural order of its objects
-    Those objects MUST implement an interface named Comparable
+    Those objects MUST implement an interface named Comparable.
     
     (NOTE: Wrapper classes and String class have already implemented this interface. In case of String class
     natural order is Alphabetically)

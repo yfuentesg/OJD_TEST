@@ -9,7 +9,7 @@ import java.util.List;
 public class ListTest {
 
     /*
-        List is an Interface ancestor or other classes like ArrayList, LinkedList ... 
+        List is an Interface ancestor or other classes like ArrayList, LinkedList ... .
      */
     public static void main(String[] args) {
 

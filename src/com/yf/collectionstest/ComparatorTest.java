@@ -8,7 +8,7 @@ public class ComparatorTest {
 
     /*
         Comparator is other Interface to allow ordering. It could be used for example in cases when we dont have access to class to order
-        This example is exactly like Comparable Interface :|
+        This example is exactly like Comparable Interface :|.
      */
     public class Course implements Comparator<Course> {
 

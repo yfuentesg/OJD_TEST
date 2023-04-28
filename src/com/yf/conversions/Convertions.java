@@ -14,7 +14,7 @@ public class Convertions {
     
     
     public static void main(String[] args) {        
-        /*IMPLICIT CONVERTIONS*/
+        /*IMPLICIT CONVERTIONS.*/
         char c = 4;
         int a = 4;
         //char cerr = a; // THIS is an error. If The SOURCE TYPE IS NUMERIC(ANY TYPE) AND THE DESTINY IS CHAR 

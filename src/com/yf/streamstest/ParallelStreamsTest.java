@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.stream.Stream;
 
 /*
-    Parallel Streams are a type of Streams which have the ability to process in
+    Parallel Streams are a type of Streams which have the ability to process inx
     threads, running at same time.
     Are exactly as sequential Streams but all the methods they call running in parallel mode.   
 

@@ -5,7 +5,7 @@ public class ShortCircuitOperatorsTest {
     /*
         || and && are called short circuiting operators because if, while evaluating a logical expression, 
         at any stage, the value of the whole expression can be determined without evaluating the rest of the expression, 
-        then the remaining sub-expressions are not evaluated.
+        then the remaining sub-expressions are not evaluated
     
         & and | are nor short circuit operator so. The whole expression is evaluated
     */

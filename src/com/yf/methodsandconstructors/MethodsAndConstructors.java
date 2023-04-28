@@ -4,7 +4,7 @@ public class MethodsAndConstructors {
     int l;
     int k;
     
-    //Initialization block are called before the constructor. One by every instance call (new)
+    //Initialization block are called before the constructor. One by every instance call (new.)
     {
         l= 2;
     }    

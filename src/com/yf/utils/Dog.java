@@ -17,6 +17,6 @@ public class Dog {
     }
 
     public void eat() {
-        System.out.println("Dog Yummy!!");
+        System.out.println("Dog Yummy!");
     }
 }

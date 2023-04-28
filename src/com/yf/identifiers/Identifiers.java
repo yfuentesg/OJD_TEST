@@ -4,7 +4,7 @@ public class Identifiers {
     
     public static void main(String[] args) {
         /*
-        The LEGAL identifiers :
+        The Legal identifiers :
         -Pueden comenzar por una letra, underscore(_), o signo $
         -virtualmente no tienen limite de tamahno
         -NO pueden llamarse igual que una keyword (ej. class)

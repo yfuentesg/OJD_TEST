@@ -7,7 +7,7 @@ public class ArraysMethods {
     public static void main(String[] args) {
         /*
         Arrays Class provides some statics methods to use. Some of them might be subject of test's questions
-        NOTE: IMPORTANT. This methods require the arrays are ordered
+        NOTE: IMPORTANT. This methods require the arrays are ordered.
          */
 
         //1. binarySearch is a method which search a key into an array. And returns the position of that key

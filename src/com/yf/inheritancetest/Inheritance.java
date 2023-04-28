@@ -16,7 +16,7 @@ class FirstClass {
 class SecondClass extends FirstClass {
     
     public SecondClass() {
-       //NOTE. First line in constructors is IMPORTANT.
+       //NOTE. First line in constructors is IMPORTANT
        //The compiler automatically set HERE the call to superclass's constructor with NO perameters
        //If it doesnt exist. It will throw an error 
        

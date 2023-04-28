@@ -4,7 +4,7 @@ public class ArraysTest {
 
     static public void oneDimension() {
         //Examples of arrays declaration
-        //Important. After declaration arrays are already initialized (In this case 0)
+        //Important. After declaration arrays are already initialized (In this case 0).
         int[] array1 = new int[5];
         int array2[] = new int[]{6, 4, 1, 0, 7, 8, 1, 3, 7, 9, 5}; //we can, declare, instantiate, and initialize in one single line
         int array3[] = {7, 7, 7}; //short Initialization         

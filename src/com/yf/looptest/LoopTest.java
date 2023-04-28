@@ -5,7 +5,7 @@ public class LoopTest {
     
     public static void main(String[] args) {
         /*
-        The for have 3 parts.
+        The for have 3 parts
         1. initializacion
         2. condition. Expressions that return a boolean
         3. increment/decrement

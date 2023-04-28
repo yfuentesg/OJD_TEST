@@ -5,7 +5,7 @@ public class VariableDeclaration {
     
     public static void main(String[] args) {
         int a,b,c;        
-        int l=5,m,n; //HERE Just l is beign initialized to 5. m, n are not
+        int l=5,m,n; //HERE Just l is beign initialized to 5. m, n are noT
         int x,y,z=10; //same goes here
         
         int d=3,e=7,f=4; //HERE ALL variables are initialized
